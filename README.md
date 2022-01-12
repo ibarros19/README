@@ -1,4 +1,4 @@
-# sdfsdfsf
+# Read me creator
   ![License](https://img.shields.io/badge/License-MIT-blue)
 <hr>
   <h2>Table of Contents</h2>
@@ -13,13 +13,13 @@
   
   <a name='description'></a>
   ## Description
-  sdfsdfds
+  This application helps with the creation of readme.md files. With it the user can easily create dinamically a professional README.md file.
   <a name='usage'></a>
   ## Usage
-  sdfsdf
+  to start make sure you have node.js installed in your machine and after running the command line "node index.js" just answer the questions in your terminal to create your README.md file.
   <a name='install'></a>
   ## Installation
-  dfssdfs
+  npm i
   <a name='test'></a>
   ## Test
   npm test
@@ -28,7 +28,7 @@
   The application has a MIT license.
   <a name='contribution'></a>
   ## How to contribute to this application
-  sdfsdf
+  To contribute, please email me.
   <a name='questions'></a>
   ## Questions
-  If you have any further questions, please feel free to contact me on GitHub at [ffsdfsdf](https://github.com/ffsdfsdf) or by email at [sdfsdf](sdfsdf).
+  If you have any further questions, please feel free to contact me on GitHub at [ivibarros19](https://github.com/ivibarros19) or by email at [ivi@myemail.com](ivi@myemail.com).
