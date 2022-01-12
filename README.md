@@ -14,6 +14,7 @@
   <a name='description'></a>
   ## Description
   This application helps with the creation of readme.md files. With it the user can easily create dinamically a professional README.md file.
+  Technologies used: Javascript and Node.js
   <a name='usage'></a>
   ## Usage
   to start make sure you have node.js installed in your machine and after running the command line "node index.js" just answer the questions in your terminal to create your README.md file.
