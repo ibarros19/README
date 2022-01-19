@@ -37,4 +37,7 @@
 Link to the video demonstration:
 https://youtu.be/i6MZfki3VdY
 
-Screenshot:
+Screenshots:
+<br><img src="sc1.png" target="blank" width=400px>
+<br><img src="sc2.png" target="blank" width=400px>
+
